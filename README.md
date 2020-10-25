@@ -7,12 +7,6 @@ I am interested in Physics and Maths. Checkout this page to know [about me](http
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
 [1.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [2.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
@@ -21,15 +15,8 @@ I am interested in Physics and Maths. Checkout this page to know [about me](http
 [1.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [2.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
 [1]: http://www.facebook.com/iamsreeman
 [2]: http://www.twitter.com/iamsreeman
 [3]: mailto:sreemanmohanreddy@gmail.com
-
-
 
 You can find some quotes [here](http://iamsreeman.github.io/quotes)
