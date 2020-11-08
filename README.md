@@ -7,7 +7,7 @@ I am interested in Physics and Maths. Checkout this page to know [about me](http
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-<img src="https://www.flaticon.com/svg/static/icons/svg/25/25670.svg (stack icon)" width="10" height="10"/>
+<img src="https://www.flaticon.com/svg/static/icons/svg/25/25670.svg" width="10" height="10"/>
 
 [1.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [2.1]: https://cdn.sstatic.net/Sites/stackexchange/Img/apple-touch-icon@2.png (stack icon)
