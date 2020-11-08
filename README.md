@@ -6,7 +6,7 @@ I am interested in Physics and Maths. Checkout this page to know [about me](http
 <!-- display the social media buttons in your README -->
 
 [<img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width="30" height="30"/>][1]
-[<img src="https://www.flaticon.com/svg/static/icons/svg/25/25670.svg" width="30" height="30"/>][2]
+[<img src="https://cdn.sstatic.net/Sites/physics/Img/apple-touch-icon@2.png" width="30" height="30"/>][2]
 
 
 
