@@ -6,7 +6,8 @@ I am interested in Physics and Maths. Checkout this page to know [about me](http
 <!-- display the social media buttons in your README -->
 
 [<img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width="30" height="30"/>][1]
-[<img src="https://cdn.sstatic.net/Sites/physics/Img/apple-touch-icon@2.png" width="40" height="40"/>][2]
+[<img src="https://www.flaticon.com/svg/static/icons/svg/124/124034.svg" width="30" height="30"/>][4]
+[<img src="https://cdn.sstatic.net/Sites/physics/Img/apple-touch-icon@2.png" width="50" height="50"/>][2]
 
 
 
@@ -21,5 +22,5 @@ I am interested in Physics and Maths. Checkout this page to know [about me](http
 [1]: http://www.facebook.com/iamsreeman
 [2]: https://physics.stackexchange.com/users/264772/kasi-reddy-sreeman-reddy
 [3]: mailto:sreemanmohanreddy@gmail.com
-
+[4]: https://api.whatsapp.com/send?phone=917032905466
 You can find some quotes [here](http://iamsreeman.github.io/quotes)
