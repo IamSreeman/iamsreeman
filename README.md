@@ -1,6 +1,6 @@
 ### Hi, I am **K. Sreeman Reddy**
 
-I am interested in fundamental theoretical physics (like [quantum gravity theories](https://en.wikipedia.org/wiki/Quantum_gravity#Candidate_theories), [cosmology](https://en.wikipedia.org/wiki/Physical_cosmology) etc.). Checkout this page to know [about](http://iamsreeman.github.io/about) me.
+I am currently primarily interested in <a href="https://en.wikipedia.org/wiki/String_theory" target="_blank">string theory</a>. My other interests include <a href="https://en.wikipedia.org/wiki/Physical_cosmology" target="_blank">cosmology</a>, <a href="https://en.wikipedia.org/wiki/Particle_physics" target="_blank">particle physics</a> etc. Checkout this page to know more [about](http://iamsreeman.github.io/about) me.
 
 $$
 \boxed{\begin{gather}
