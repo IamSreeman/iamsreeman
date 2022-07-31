@@ -15,7 +15,6 @@ $$
   <a href="https://physics.stackexchange.com/users/264772/kasi-reddy-sreeman-reddy"><img src="https://img.icons8.com/color/96/000000/stackexchange.png" width="30" height="30"/></a>
   <a href="http://www.facebook.com/iamsreeman"><img src="https://img.icons8.com/office/80/000000/facebook.png" width="30" height="30"/></a>
   <a href="http://www.twitter.com/iamsreeman"><img src="https://img.icons8.com/office/80/000000/twitter.png" width="30" height="30"/></a>
-  <a href="https://api.whatsapp.com/send?phone=917032905466"><img src="https://img.icons8.com/office/80/000000/whatsapp--v1.png" width="30" height="30"/></a>
 </p>
 
 You can find some quotes [here](http://iamsreeman.github.io/quotes).
