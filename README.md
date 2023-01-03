@@ -1,6 +1,8 @@
 ### Hi, I am **K. Sreeman Reddy**
 
-I am currently primarily interested in <a href="https://en.wikipedia.org/wiki/String_theory" target="_blank">string theory</a>. My other interests include <a href="https://en.wikipedia.org/wiki/Physical_cosmology" target="_blank">cosmology</a>, <a href="https://en.wikipedia.org/wiki/Particle_physics" target="_blank">particle physics</a> etc. Check out this page to know more [about](http://iamsreeman.github.io/about) me.
+I am currently primarily interested in <a href="https://en.wikipedia.org/wiki/String_theory" target="_blank">string theory</a> (especially the <a href="https://en.wikipedia.org/wiki/AdS/CFT_correspondence" target="_blank">AdS/CFT correspondence</a>). My other interests include <a href="https://en.wikipedia.org/wiki/Physical_cosmology" target="_blank">cosmology</a>, <a href="https://en.wikipedia.org/wiki/Particle_physics" target="_blank">particle physics</a> (especially strongly coupled quantum field theories), <a href="https://en.wikipedia.org/wiki/Quantum_information" target="_blank">quantum information theory</a> application to string theory/quantum gravity etc.
+
+Check out this page to know more [about](http://iamsreeman.github.io/about) me.
 
 $$
 \boxed{\begin{gather}
